@@ -1,5 +1,5 @@
-                                                    ****👋 Hi, I’m Anup Mali **
-       Passionate data analyst focused on leveraging insights from complex datasets to drive informed decision-making.**
+                                                    👋 Hi, I’m Anup Mali 
+       Passionate data analyst focused on leveraging insights from complex datasets to drive informed decision-making.
   
 - 👀 I’m skilled in Power BI, SQL, Excel 
   
