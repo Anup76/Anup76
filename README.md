@@ -5,7 +5,7 @@
   
 - 👀 I’m skilled in Power BI, SQL, Excel, Python 
   
-- 📫 How to reach me anupmali38@gmail.com
+- 📫 How to reach me malianup20@gmail.com
 
 - ⚡ Fun fact: I Mechanical Engineer turned into IT Professional.
 
